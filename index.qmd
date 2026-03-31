@@ -1,0 +1,35 @@
+---
+title: "Data Day With the Doplins 2026"
+subtitle: "California State University Channel Islands"
+format: 
+  html:
+    toc: true
+    embed-resources: true
+    theme: lux
+---
+
+# General Information
+
+Data Day with the Dolphins is a fun, interactive event hosted by CSU Channel Islands that invites local high school and community college students to explore the exciting world of data science—no prior experience required! Participants will enjoy hands-on workshops, a career panel with professionals working in the field, a campus tour, and opportunities to connect with students and faculty. Lunch will be provided, making it a full day of learning, discovery, and community.
+
+# Schedule
+
+May 16, 2026 from 9 AM - 3:30 PM
+
+| Time | Event | Location |
+|:-------|:----------------------|:-----------|
+| 9 AM | Arrival & Check in (High school bus drop-off) | Gateway Hall |
+| 9:30 - 10:30 AM | Event Kick-off and CSUCI President's Welcome | Gateway Hall first floor presenation room [TBD]  |
+| 10 - 11 AM | Careers in Data Science Panel | Gateway Hall first floor presenation room [TBD] | 
+| 11 - 11:15 AM | Break | |
+| 11:15 AM - 12:15 PM | Hands-on Data Science Breakout Session 1 | Gateway Hall computer labs [TBD] | 
+| 12:15 - 1:15 PM | Lunch | Gateway Hall |
+| 1:15 - 2 PM | Campus Tour | |
+| 2 - 3 PM | Hands-on Data Science Breakout Session | Gateway Hall computer labs [TBD] |
+| 3:10 - 3:30 PM | Data Science at CSUCI & Event Closure | Gateway Hall first floor presentation room [TBD]  | 
+| 3:45 PM | Departure (High school bus pick-up) | [TBD] |
+
+# Participant registration
+
+Registration is required by [TBD]. Please register for this event at [TBD.]
+
