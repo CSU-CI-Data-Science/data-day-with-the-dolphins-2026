@@ -8,9 +8,13 @@ format:
     theme: lux
 ---
 
+*This page is currently under construction.*
+
+
 # General Information
 
 Data Day with the Dolphins is a fun, interactive event hosted by CSU Channel Islands that invites local high school and community college students to explore the exciting world of data science—no prior experience required! Participants will enjoy hands-on workshops, a career panel with professionals working in the field, a campus tour, and opportunities to connect with students and faculty. Lunch will be provided, making it a full day of learning, discovery, and community.
+
 
 # Schedule
 
