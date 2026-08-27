@@ -30,7 +30,7 @@ September 25, 2026 from 9 AM - 2:30 PM
 | 11:15 AM - 12:15 PM | Hands-on Data Science Breakout Session 1 |  Sierra Hall Computer Labs | 
 | 12:15 - 1:15 PM | Lunch |  Island's Cafe |
 | 1:15 - 2 PM | Campus Tour | |
-| 2 - 2:30 PM | Data Science at CSUCI & Event Closure | Del Norte Hall 1500  | 
+| 2 PM | Event conclusion |  | 
 
 # Participant registration
 
